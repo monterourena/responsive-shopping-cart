@@ -1,4 +1,4 @@
-# Responsive Shopping Cart - Frontend Development
+# Mobile First Shopping Cart - Frontend Development
 
 This repository shows an implementation using HTML and CSS to replicate the site as proposed in these [design guidelines](https://scene.zeplin.io/project/60afeeed20af1378ed046538).
 
